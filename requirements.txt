@@ -1,0 +1,9 @@
+# pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+# pip install torch torchvision torchaudio (PyTorch for CPU configuration)
+# pip install sentencepiece
+# pip install transformers
+# pip install -U spacy
+# pip install pytextrank
+
+# Versions:
+transformers~=2.3.0
